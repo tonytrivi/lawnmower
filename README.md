@@ -1,4 +1,4 @@
-## Bloc Frontend Project Starter
+## Bloc Frontend Project Starter - Elsa and Olivia
 
 A starter application for student projects in Bloc's [Frontend Web Development Course](https://www.bloc.io/frontend-development-bootcamp).
 
